@@ -1,6 +1,6 @@
 #!python2
 #coding=utf-8
-
+# 
 import cairo
 
 WIDTH, HEIGHT = 600, 300
